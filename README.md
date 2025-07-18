@@ -14,16 +14,30 @@ Welcome to my GitHub! I'm a passionate full-stack developer and tech enthusiast 
 
 ## 🔧 Tech Stack
 
+**Languages & Frameworks**
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
+
+**Tools & IDEs**
+
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
+
+**OS & Terminal**
+
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Unix](https://img.shields.io/badge/-Unix-000000?style=flat-square&logo=unix&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows)
 
 ---
 
