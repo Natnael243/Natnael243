@@ -35,9 +35,9 @@ Welcome to my GitHub! I'm a passionate full-stack developer and tech enthusiast 
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-link)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram)](https://t.me/yourusername)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/natnael-zelalem-204056210/)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram)](https://t.me/NATAYN_1924)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nhattyzola243@gmail.com)
 
 ---
 
