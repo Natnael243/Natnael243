@@ -42,8 +42,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer and tech enthusiast 
 ---
 
 ## 📈 GitHub Stats
-
-![Natnael's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatnaelZelalem&show_icons=true&theme=github_dark)
+![Natnael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natnael243&show_icons=true&theme=github_dark&count_private=true)
 
 ---
 
