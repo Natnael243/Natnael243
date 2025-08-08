@@ -4,10 +4,10 @@ Welcome to my GitHub! I'm a passionate full-stack developer and tech enthusiast 
 
 ## 🚀 About Me
 
-- 🎓 BSc in Computer Science, Microlink College  
-- 💻 Currently working on eCommerce, inventory systems, and mobile app UIs  
-- 📚 Learning Flutter, Laravel, and modern UI/UX design  
-- 🛠️ Tech I use: PHP, MySQL, Flutter, Laravel, JavaScript, Figma, Git, Gammu, Firebase  
+- 🎓 BSc in Computer Science, Microlink IT College.
+- 💻 Currently working on eCommerce, inventory systems, Coorporate Websites.
+- 📚 Learning Flutter and modern UI/UX design  
+- 🛠️ Tech I use: PHP, MySQL, Flutter, JavaScript, Figma, Git, Gammu, Firebase  
 - 🌱 Exploring AI tools & automation for small businesses  
 
 ---
@@ -32,7 +32,6 @@ Welcome to my GitHub! I'm a passionate full-stack developer and tech enthusiast 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
 
 **OS & Terminal**  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Unix](https://img.shields.io/badge/-Unix-000000?style=flat-square&logo=unix&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows)
 
@@ -58,4 +57,4 @@ Welcome to my GitHub! I'm a passionate full-stack developer and tech enthusiast 
 
 ---
 
-> 💡 _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House_
